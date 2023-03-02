@@ -1,0 +1,10 @@
+C:\Users\alert\OneDrive\Dokumenty\STUDIA\JA\JA projekt\ImageToASCIIconverter\CsConverter\bin\Debug\netcoreapp3.1\CsConverter.deps.json
+C:\Users\alert\OneDrive\Dokumenty\STUDIA\JA\JA projekt\ImageToASCIIconverter\CsConverter\bin\Debug\netcoreapp3.1\CsConverter.dll
+C:\Users\alert\OneDrive\Dokumenty\STUDIA\JA\JA projekt\ImageToASCIIconverter\CsConverter\bin\Debug\netcoreapp3.1\CsConverter.pdb
+C:\Users\alert\OneDrive\Dokumenty\STUDIA\JA\JA projekt\ImageToASCIIconverter\CsConverter\obj\Debug\netcoreapp3.1\CsConverter.csproj.AssemblyReference.cache
+C:\Users\alert\OneDrive\Dokumenty\STUDIA\JA\JA projekt\ImageToASCIIconverter\CsConverter\obj\Debug\netcoreapp3.1\CsConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alert\OneDrive\Dokumenty\STUDIA\JA\JA projekt\ImageToASCIIconverter\CsConverter\obj\Debug\netcoreapp3.1\CsConverter.AssemblyInfoInputs.cache
+C:\Users\alert\OneDrive\Dokumenty\STUDIA\JA\JA projekt\ImageToASCIIconverter\CsConverter\obj\Debug\netcoreapp3.1\CsConverter.AssemblyInfo.cs
+C:\Users\alert\OneDrive\Dokumenty\STUDIA\JA\JA projekt\ImageToASCIIconverter\CsConverter\obj\Debug\netcoreapp3.1\CsConverter.csproj.CoreCompileInputs.cache
+C:\Users\alert\OneDrive\Dokumenty\STUDIA\JA\JA projekt\ImageToASCIIconverter\CsConverter\obj\Debug\netcoreapp3.1\CsConverter.dll
+C:\Users\alert\OneDrive\Dokumenty\STUDIA\JA\JA projekt\ImageToASCIIconverter\CsConverter\obj\Debug\netcoreapp3.1\CsConverter.pdb

@@ -1,0 +1,4 @@
+﻿  Assembling JaAsm.asm...
+     Trwa tworzenie biblioteki C:\Users\alert\OneDrive\Dokumenty\STUDIA\JA\JA projekt\ImageToASCIIconverter\ImageToASCIIconverter\x64\Release\JaAsm.lib i obiektu C:\Users\alert\OneDrive\Dokumenty\STUDIA\JA\JA projekt\ImageToASCIIconverter\ImageToASCIIconverter\x64\Release\JaAsm.exp
+  LINK : określono opcję /LTCG, lecz generowanie kodu nie było wymagane; usuń opcję /LTCG z wiersza polecenia konsolidatora w celu podwyższenia wydajności konsolidatora
+  JaAsm.vcxproj -> C:\Users\alert\OneDrive\Dokumenty\STUDIA\JA\JA projekt\ImageToASCIIconverter\ImageToASCIIconverter\x64\Release\JaAsm.dll

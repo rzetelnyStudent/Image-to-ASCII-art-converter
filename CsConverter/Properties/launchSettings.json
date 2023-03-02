@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CsConverter": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}

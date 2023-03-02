@@ -1,0 +1,12 @@
+C:\Users\alert\OneDrive\Dokumenty\STUDIA\JA\JA projekt\ImageToASCIIconverter\CsConverter\bin\Debug\net5.0\CsConverter.deps.json
+C:\Users\alert\OneDrive\Dokumenty\STUDIA\JA\JA projekt\ImageToASCIIconverter\CsConverter\bin\Debug\net5.0\CsConverter.dll
+C:\Users\alert\OneDrive\Dokumenty\STUDIA\JA\JA projekt\ImageToASCIIconverter\CsConverter\bin\Debug\net5.0\ref\CsConverter.dll
+C:\Users\alert\OneDrive\Dokumenty\STUDIA\JA\JA projekt\ImageToASCIIconverter\CsConverter\bin\Debug\net5.0\CsConverter.pdb
+C:\Users\alert\OneDrive\Dokumenty\STUDIA\JA\JA projekt\ImageToASCIIconverter\CsConverter\obj\Debug\net5.0\CsConverter.csproj.AssemblyReference.cache
+C:\Users\alert\OneDrive\Dokumenty\STUDIA\JA\JA projekt\ImageToASCIIconverter\CsConverter\obj\Debug\net5.0\CsConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alert\OneDrive\Dokumenty\STUDIA\JA\JA projekt\ImageToASCIIconverter\CsConverter\obj\Debug\net5.0\CsConverter.AssemblyInfoInputs.cache
+C:\Users\alert\OneDrive\Dokumenty\STUDIA\JA\JA projekt\ImageToASCIIconverter\CsConverter\obj\Debug\net5.0\CsConverter.AssemblyInfo.cs
+C:\Users\alert\OneDrive\Dokumenty\STUDIA\JA\JA projekt\ImageToASCIIconverter\CsConverter\obj\Debug\net5.0\CsConverter.csproj.CoreCompileInputs.cache
+C:\Users\alert\OneDrive\Dokumenty\STUDIA\JA\JA projekt\ImageToASCIIconverter\CsConverter\obj\Debug\net5.0\CsConverter.dll
+C:\Users\alert\OneDrive\Dokumenty\STUDIA\JA\JA projekt\ImageToASCIIconverter\CsConverter\obj\Debug\net5.0\ref\CsConverter.dll
+C:\Users\alert\OneDrive\Dokumenty\STUDIA\JA\JA projekt\ImageToASCIIconverter\CsConverter\obj\Debug\net5.0\CsConverter.pdb
